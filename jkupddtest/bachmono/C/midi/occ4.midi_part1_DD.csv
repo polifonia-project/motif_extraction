@@ -1,0 +1,6 @@
+,midi_note_num,diatonic_note_num,chromatic_pitch_class,offset,duration,diatonic_pitch_class,chromatic_interval,diatonic_interval
+0,77,39,5,0.5,0.5,4,15,9
+1,71,35,11,1.0,0.5,0,-6,-4
+2,74,37,2,1.5,0.5,2,3,2
+3,68,33,8,2.0,1.0,5,-6,-4
+4,71,35,11,3.0,1.0,0,3,2
